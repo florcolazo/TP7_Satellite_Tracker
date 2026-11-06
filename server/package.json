@@ -1,0 +1,12 @@
+{
+  "name": "satellite-tracker-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy/caché de credenciales (N2YO, Space-Track) para Satellite Tracker",
+  "type": "module",
+  "engines": { "node": ">=23.6" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/index.ts",
+    "test": "node --test test/*.test.ts"
+  }
+}

@@ -1,0 +1,494 @@
+{
+ "runAt": 1793987292558,
+ "observer": {
+  "latitude": -32.4846,
+  "longitude": -58.2321,
+  "altitudeKm": 0.025
+ },
+ "e1": [
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793814493000,
+   "ours": {
+    "latitude": -51.155350956985295,
+    "longitude": -64.33019568834466,
+    "altitudeKm": 435.0515388087906,
+    "velocityKmS": 7.651432418756685,
+    "timestamp": 1793814493000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -51.155019412512,
+    "longitude": -64.328935028956,
+    "altitudeKm": 435.01965761104,
+    "timestamp": 1793814493000
+   },
+   "groundErrorKm": 0.09533846364413252,
+   "altitudeErrorKm": 0.03188119775063569,
+   "totalErrorKm": 0.10697303601549212,
+   "dataAgeHours": -26.6732802798801
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793900893000,
+   "ours": {
+    "latitude": 50.99146272583523,
+    "longitude": 111.20074304044721,
+    "altitudeKm": 426.3336566866192,
+    "velocityKmS": 7.661194984219708,
+    "timestamp": 1793900893000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": 50.991463802114,
+    "longitude": 111.20072164295,
+    "altitudeKm": 426.3354530562,
+    "timestamp": 1793900893000
+   },
+   "groundErrorKm": 0.0015023894159712121,
+   "altitudeErrorKm": -0.001796369580802093,
+   "totalErrorKm": 0.0024106887624711594,
+   "dataAgeHours": -2.6732802798800996
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793944093000,
+   "ours": {
+    "latitude": 6.918348166893554,
+    "longitude": -169.9050423051956,
+    "altitudeKm": 414.44532905709093,
+    "velocityKmS": 7.666847549382005,
+    "timestamp": 1793944093000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": 6.9183379976838,
+    "longitude": -169.90504950037,
+    "altitudeKm": 414.447589425,
+    "timestamp": 1793944093000
+   },
+   "groundErrorKm": 0.001381829661415815,
+   "altitudeErrorKm": -0.0022603679090593687,
+   "totalErrorKm": 0.002694813527315819,
+   "dataAgeHours": 9.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793965693000,
+   "ours": {
+    "latitude": -27.62692776530848,
+    "longitude": 68.79643282957511,
+    "altitudeKm": 422.9304260074123,
+    "velocityKmS": 7.659903768830382,
+    "timestamp": 1793965693000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -27.626932972499,
+    "longitude": 68.796427445204,
+    "altitudeKm": 422.93261908015,
+    "timestamp": 1793965693000
+   },
+   "groundErrorKm": 0.000785263037686797,
+   "altitudeErrorKm": -0.002193072737725288,
+   "totalErrorKm": 0.0023472213918076,
+   "dataAgeHours": 15.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793983693000,
+   "ours": {
+    "latitude": 34.97442741602784,
+    "longitude": 50.30856243431893,
+    "altitudeKm": 418.381740838101,
+    "velocityKmS": 7.666519293810198,
+    "timestamp": 1793983693000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": 34.974415538567,
+    "longitude": 50.308550936654,
+    "altitudeKm": 418.38384092889,
+    "timestamp": 1793983693000
+   },
+   "groundErrorKm": 0.0016857503195998168,
+   "altitudeErrorKm": -0.0021000907889856535,
+   "totalErrorKm": 0.0027630258583950257,
+   "dataAgeHours": 20.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987293000,
+   "ours": {
+    "latitude": -50.873658809169015,
+    "longitude": -73.77929494978049,
+    "altitudeKm": 435.33212685640956,
+    "velocityKmS": 7.6510063971816455,
+    "timestamp": 1793987293000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.873658594326,
+    "longitude": -73.779303900984,
+    "altitudeKm": 435.33406833876,
+    "timestamp": 1793987293000
+   },
+   "groundErrorKm": 0.0006285396284500797,
+   "altitudeErrorKm": -0.001941482350446222,
+   "totalErrorKm": 0.0020549701255107504,
+   "dataAgeHours": 21.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793990893000,
+   "ours": {
+    "latitude": 21.7737656760278,
+    "longitude": 148.06945422245673,
+    "altitudeKm": 423.9668724153498,
+    "velocityKmS": 7.657718948399525,
+    "timestamp": 1793990893000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": 21.773774931185,
+    "longitude": 148.06944744898,
+    "altitudeKm": 423.96859729776,
+    "timestamp": 1793990893000
+   },
+   "groundErrorKm": 0.0012443166883815398,
+   "altitudeErrorKm": -0.0017248824102011895,
+   "totalErrorKm": 0.0021745423670347388,
+   "dataAgeHours": 22.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1794008893000,
+   "ours": {
+    "latitude": -39.812415420316334,
+    "longitude": 131.17243449824628,
+    "altitudeKm": 434.5682146694562,
+    "velocityKmS": 7.6493447247548945,
+    "timestamp": 1794008893000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -39.812408505327,
+    "longitude": 131.17242951921,
+    "altitudeKm": 434.56998527726,
+    "timestamp": 1794008893000
+   },
+   "groundErrorKm": 0.0008786860345978665,
+   "altitudeErrorKm": -0.0017706078037917905,
+   "totalErrorKm": 0.0020037878031005088,
+   "dataAgeHours": 27.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1794030493000,
+   "ours": {
+    "latitude": -7.694168242197218,
+    "longitude": 4.782189996444146,
+    "altitudeKm": 425.86347898947133,
+    "velocityKmS": 7.6540042166154665,
+    "timestamp": 1794030493000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -7.6941580633742,
+    "longitude": 4.7821839039815,
+    "altitudeKm": 425.86520978328,
+    "timestamp": 1794030493000
+   },
+   "groundErrorKm": 0.0013159654131899242,
+   "altitudeErrorKm": -0.0017307938086901231,
+   "totalErrorKm": 0.002225548733447506,
+   "dataAgeHours": 33.3267197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1794073693000,
+   "ours": {
+    "latitude": 50.65541477563115,
+    "longitude": 101.90440596250681,
+    "altitudeKm": 425.7025575177222,
+    "velocityKmS": 7.661784212706058,
+    "timestamp": 1794073693000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": 50.655417344882,
+    "longitude": 101.90437981421,
+    "altitudeKm": 425.70438421887,
+    "timestamp": 1794073693000
+   },
+   "groundErrorKm": 0.0018653514784578802,
+   "altitudeErrorKm": -0.0018267011478201312,
+   "totalErrorKm": 0.002705493805901026,
+   "dataAgeHours": 45.3267197201199
+  }
+ ],
+ "e2": [
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987304000,
+   "ours": {
+    "latitude": -50.728758981381404,
+    "longitude": -72.73118961169772,
+    "altitudeKm": 435.216207905587,
+    "velocityKmS": 7.651104323640641,
+    "timestamp": 1793987304000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.728758878014,
+    "longitude": -72.731198511831,
+    "altitudeKm": 435.21815321771,
+    "timestamp": 1793987304000
+   },
+   "groundErrorKm": 0.0006265469932332525,
+   "altitudeErrorKm": -0.0019453121229844328,
+   "totalErrorKm": 0.0020578864752789786,
+   "dataAgeHours": 21.329775275675456
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987305000,
+   "ours": {
+    "latitude": -50.71507910114884,
+    "longitude": -72.63624532712691,
+    "altitudeKm": 435.205474864194,
+    "velocityKmS": 7.651113329999248,
+    "timestamp": 1793987305000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.715079007878,
+    "longitude": -72.636254223042,
+    "altitudeKm": 435.2074205258,
+    "timestamp": 1793987305000
+   },
+   "groundErrorKm": 0.000626413337205869,
+   "altitudeErrorKm": -0.0019456616059869702,
+   "totalErrorKm": 0.0020581696683146175,
+   "dataAgeHours": 21.330053053453234
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987306000,
+   "ours": {
+    "latitude": -50.70131506422444,
+    "longitude": -72.54135860673772,
+    "altitudeKm": 435.19470944971727,
+    "velocityKmS": 7.651122353612336,
+    "timestamp": 1793987306000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.701314981043,
+    "longitude": -72.541367497151,
+    "altitudeKm": 435.19665546102,
+    "timestamp": 1793987306000
+   },
+   "groundErrorKm": 0.0006261922236985226,
+   "altitudeErrorKm": -0.0019460113027207626,
+   "totalErrorKm": 0.0020584225453780173,
+   "dataAgeHours": 21.330330831231013
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987308000,
+   "ours": {
+    "latitude": -50.67353431450355,
+    "longitude": -72.35175520531307,
+    "altitudeKm": 435.17308118333585,
+    "velocityKmS": 7.651140452895221,
+    "timestamp": 1793987308000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.673534251484,
+    "longitude": -72.351764086824,
+    "altitudeKm": 435.17502789469,
+    "timestamp": 1793987308000
+   },
+   "groundErrorKm": 0.000625906656003895,
+   "altitudeErrorKm": -0.0019467113541509207,
+   "totalErrorKm": 0.0020589837364911536,
+   "dataAgeHours": 21.330886386786567
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987309000,
+   "ours": {
+    "latitude": -50.65951833982151,
+    "longitude": -72.25704291925857,
+    "altitudeKm": 435.1622188259462,
+    "velocityKmS": 7.651149528165029,
+    "timestamp": 1793987309000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.659518286872,
+    "longitude": -72.257051795183,
+    "altitudeKm": 435.16416588765,
+    "timestamp": 1793987309000
+   },
+   "groundErrorKm": 0.0006256881991907369,
+   "altitudeErrorKm": -0.001947061703788222,
+   "totalErrorKm": 0.0020592382826617925,
+   "dataAgeHours": 21.331164164564345
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987310000,
+   "ours": {
+    "latitude": -50.645418566975536,
+    "longitude": -72.16238935265089,
+    "altitudeKm": 435.15132421435464,
+    "velocityKmS": 7.651158620617504,
+    "timestamp": 1793987310000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.645418524091,
+    "longitude": -72.162398223799,
+    "altitudeKm": 435.15327162663,
+    "timestamp": 1793987310000
+   },
+   "groundErrorKm": 0.000625529711768671,
+   "altitudeErrorKm": -0.0019474122753422307,
+   "totalErrorKm": 0.0020595139965497696,
+   "dataAgeHours": 21.33144194234212
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987311000,
+   "ours": {
+    "latitude": -50.63123508663866,
+    "longitude": -72.06779479248301,
+    "altitudeKm": 435.14039737864005,
+    "velocityKmS": 7.651167730234539,
+    "timestamp": 1793987311000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.631235053812,
+    "longitude": -72.067803658409,
+    "altitudeKm": 435.14234514168,
+    "timestamp": 1793987311000
+   },
+   "groundErrorKm": 0.0006253426584084828,
+   "altitudeErrorKm": -0.0019477630399364898,
+   "totalErrorKm": 0.0020597799703217607,
+   "dataAgeHours": 21.3317197201199
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987312000,
+   "ours": {
+    "latitude": -50.616967989893844,
+    "longitude": -71.97325952220773,
+    "altitudeKm": 435.1294383490067,
+    "velocityKmS": 7.651176856997964,
+    "timestamp": 1793987312000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.616967967118,
+    "longitude": -71.973268383297,
+    "altitudeKm": 435.13138646305,
+    "timestamp": 1793987312000
+   },
+   "groundErrorKm": 0.0006251856463234047,
+   "altitudeErrorKm": -0.0019481140432731081,
+   "totalErrorKm": 0.0020600566738925175,
+   "dataAgeHours": 21.331997497897678
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987313000,
+   "ours": {
+    "latitude": -50.60261736823324,
+    "longitude": -71.87878382508255,
+    "altitudeKm": 435.1184471558099,
+    "velocityKmS": 7.651186000889544,
+    "timestamp": 1793987313000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.602617355502,
+    "longitude": -71.87879268131,
+    "altitudeKm": 435.12039562105,
+    "timestamp": 1793987313000
+   },
+   "groundErrorKm": 0.0006250297238440997,
+   "altitudeErrorKm": -0.0019484652401047242,
+   "totalErrorKm": 0.0020603339735197155,
+   "dataAgeHours": 21.332275275675457
+  },
+  {
+   "provider": "wheretheiss",
+   "noradId": 25544,
+   "timestamp": 1793987314000,
+   "ours": {
+    "latitude": -50.58818273114666,
+    "longitude": -71.78436418535512,
+    "altitudeKm": 435.10742338538785,
+    "velocityKmS": 7.651195162259908,
+    "timestamp": 1793987314000
+   },
+   "theirs": {
+    "source": "wheretheiss",
+    "noradId": 25544,
+    "latitude": -50.588182728454,
+    "longitude": -71.784373036372,
+    "altitudeKm": 435.10937220205,
+    "timestamp": 1793987314000
+   },
+   "groundErrorKm": 0.0006248520434144272,
+   "altitudeErrorKm": -0.0019488166621499659,
+   "totalErrorKm": 0.0020606039403952047,
+   "dataAgeHours": 21.332553053453232
+  }
+ ],
+ "e3": null,
+ "e4": null
+}

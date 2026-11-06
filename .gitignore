@@ -1,0 +1,29 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+!.env.example
+*.log
+.DS_Store
+# Expo / React Native
+app/.expo/
+app/dist/
+app/android/
+app/ios/
+app/web-build/
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+# Datos crudos grandes (se regeneran con npm run validate)
+docs/data/starlink-*.json
+
+# Archivos locales de herramientas (no se versionan)
+app/CLAUDE.md
+app/AGENTS.md
+app/.claude/
+.claude/
+
+# Enunciado del TP (no se versiona)
+*.pdf
